@@ -2,12 +2,13 @@
 
 ## Description
 
+A very helpful way to quickly input a team into the command-line and have it generate a rendered HTML with working email links and github links! It gives you 3 options for employees and based on the role choice it'll offer more inputs pertaining to that role.
+
 ## User Story
 ```
 AS A team leader
 I WANT to easily build a team roster that automatically generates in html
 SO THAT I can make an efficient and functional profile page for my team
-
 ```
 
 ## Installation
