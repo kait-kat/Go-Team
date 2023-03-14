@@ -19,7 +19,7 @@ test("Testing ID.", () => {
 
 test("Testing email.", () => {
     const email = "kat@kat.com";
-    const employeeInstance = new Employee("Kait", 2, email);
+    const employeeInstance = new Employee("Kat", 2, email);
     expect(employeeInstance.email).toBe(email);
 })
 
