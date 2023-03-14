@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/kait-kat/Go-Team#readme",
   "dependencies": {
+    "bootstrap": "^5.2.3",
     "inquirer": "^8.0.0",
     "jest": "^29.3.1"
   }
