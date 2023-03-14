@@ -1,6 +1,18 @@
 # Go-Team
-A command line-application used to build a webpage team roster based on the user's input.
 
+## Description
+
+## User Story
+```
+AS A team leader
+I WANT to easily build a team roster that automatically generates in html
+SO THAT I can make an efficient and functional profile page for my team
+
+```
+
+## Installation
+
+The main packages used for this build were Inquirer.js, Node.js, Path.js, and Jest! Bootstrap was used for the styling.
 
 ## Usage
 
