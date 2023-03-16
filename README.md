@@ -21,7 +21,7 @@ To make sure all tests are passing run "npm test" then you can initiate with "no
 
 This video demonstrates its function, use and results!
 
-https://clipchamp.com/watch/lg2qvuqN0NC
+[Demo](https://clipchamp.com/watch/lg2qvuqN0NC)
 
 Generated HTML!
 
